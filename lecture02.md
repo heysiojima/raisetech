@@ -1,2 +1,4 @@
+#dainikaikadai
+# 第二回講座感想
 
-dainikaikadai
+githubを初めて使って全然わからなかったi
